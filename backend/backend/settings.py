@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     '51.250.20.217',
-    'http://taski-preob.hopto.org/'
+    'taski-preob.hopto.org'
 ]
 
 

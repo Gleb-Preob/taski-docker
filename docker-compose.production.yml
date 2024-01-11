@@ -27,4 +27,6 @@ services:
     volumes:
       - static_volume:/staticfiles/
     ports:
-      - 8000:80 
+      - 8000:80
+    depends_on:
+      - backend
